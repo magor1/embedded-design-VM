@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.52</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:\Program Files (x86)\Atmel\Atmel Toolchain\AVR Assembler\Native\2.1.39.1005\avrassembler\Include\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\Debug/MagoDA1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>MagoDA1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>MagoDA1.map</FILE>
+  <FILE>MagoDA1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <sumLoop><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>51</LINE></sumLoop>
+  <div7_Check><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>63</LINE></div7_Check>
+  <div7_Done><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>69</LINE></div7_Done>
+  <div7_False><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>75</LINE></div7_False>
+  <div3_Check><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>84</LINE></div3_Check>
+  <div3_Done><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>90</LINE></div3_Done>
+  <div3_False><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>96</LINE></div3_False>
+  <sumOverflow_Check><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>115</LINE></sumOverflow_Check>
+  <done><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>133</LINE></done>
+  <setReg7bit3><FILE>C:\Users\student\Documents\Atmel Studio\6.1\MagoDA1\MagoDA1\MagoDA1.asm</FILE><LINE>130</LINE></setReg7bit3>
+ </LABELS>
+</ASSEMBLER_INFO>
