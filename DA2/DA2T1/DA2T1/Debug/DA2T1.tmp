@@ -1,0 +1,31 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.0</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\Debug\DA2T1.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2T1.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2T1.map</FILE>
+  <FILE>DA2T1.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <PC0_Blink><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\main.asm</FILE><LINE>11</LINE></PC0_Blink>
+  <delay_250ms><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\main.asm</FILE><LINE>25</LINE></delay_250ms>
+  <delay1><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\main.asm</FILE><LINE>30</LINE></delay1>
+  <delay2><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\main.asm</FILE><LINE>32</LINE></delay2>
+  <delay3><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T1\DA2T1\main.asm</FILE><LINE>34</LINE></delay3>
+ </LABELS>
+</ASSEMBLER_INFO>

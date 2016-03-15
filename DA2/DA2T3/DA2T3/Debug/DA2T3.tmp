@@ -1,0 +1,35 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.0</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.0.98\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\Debug\DA2T3.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>DA2T3.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>DA2T3.map</FILE>
+  <FILE>DA2T3.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <INIT><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>13</LINE></INIT>
+  <TIM1_COMPA><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>57</LINE></TIM1_COMPA>
+  <main><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>23</LINE></main>
+  <loop><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>52</LINE></loop>
+  <rising_5><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>75</LINE></rising_5>
+  <rising_10><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>79</LINE></rising_10>
+  <rising_15><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>83</LINE></rising_15>
+  <rising_20><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>87</LINE></rising_20>
+  <negEdge><FILE>c:\users\user\Documents\Atmel Studio\7.0\DA2T3\DA2T3\main.asm</FILE><LINE>93</LINE></negEdge>
+ </LABELS>
+</ASSEMBLER_INFO>
