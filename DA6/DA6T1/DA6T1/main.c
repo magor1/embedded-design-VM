@@ -40,7 +40,7 @@ int main()
 		
 		ADMUX |= (1<<REFS0)|(1<<ADLAR);	//external capacitor, ADC0 is input
 		
-		DDRC = 0x00;	
+		DDRC = 0x00;	//ADC0 input, PC0
 		
 		uint16_t temp0, temp1, temp2, temp3;		//create temporary veriables for ADC conversion
 
