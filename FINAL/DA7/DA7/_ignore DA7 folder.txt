@@ -1,0 +1,3 @@
+ignore DA7 folder in DA7 folder
+
+I can't delete it on GitHub
